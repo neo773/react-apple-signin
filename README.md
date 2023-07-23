@@ -16,7 +16,7 @@ bun add apple-signin-react
 
 ## Usage
 ```tsx
-import SignInWithApple from "react-apple-signin"
+import SignInWithApple from "apple-signin-react"
 
 <SignInWithApple
   clientId="com.app.indentifier"
