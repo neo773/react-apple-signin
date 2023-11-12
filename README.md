@@ -3,6 +3,9 @@
 
 The library supports all options on the official Apple Docs.
 
+<img width="405" alt="Screenshot 2023-07-24 at 12 21 27 AM" src="https://github.com/neo773/react-apple-signin/assets/62795688/7a1278cf-9cd8-404a-ad8b-c7a2b517a8c3">
+
+
 ## Install
 ```bash
 npm install apple-signin-react
@@ -29,5 +32,4 @@ import SignInWithApple from "apple-signin-react"
 />
 
 ```
-<img width="405" alt="Screenshot 2023-07-24 at 12 21 27 AM" src="https://github.com/neo773/react-apple-signin/assets/62795688/7a1278cf-9cd8-404a-ad8b-c7a2b517a8c3">
 
