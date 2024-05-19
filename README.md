@@ -4,7 +4,7 @@
 
 This library adheres to all the specifications detailed in the [official Apple documentation](https://developer.apple.com/documentation/sign_in_with_apple/sign_in_with_apple_js).
 
-![Screenshot](https://github.com/neo773/react-apple-signin/assets/62795688/7a1278cf-9cd8-404a-ad8b-c7a2b517a8c3)
+<img width="405" alt="Screenshot 2023-07-24 at 12 21 27 AM" src="https://github.com/neo773/react-apple-signin/assets/62795688/7a1278cf-9cd8-404a-ad8b-c7a2b517a8c3">
 
 ## Installation
 
